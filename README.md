@@ -22,6 +22,7 @@ Tarea_2_Inteligencia_Artificial/
 |---|---|---|
 | 1 | Default of Credit Card Clients | https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients |
 | 2 | Letter Recognition | https://archive.ics.uci.edu/dataset/59/letter+recognition |
+| 3 | Open-Meteo | https://open-meteo.com/en/docs/historical-weather-api?start_date=2024-10-15&end_date=2026-10-15&latitude=-33.4&longitude=-70.51&hourly=temperature_2m,relative_humidity_2m,dew_point_2m,apparent_temperature,precipitation,rain,surface_pressure,wind_speed_10m,wind_direction_10m,cloud_cover,pressure_msl,soil_temperature_0_to_7cm#hourly_weather_variables |
 
 Los archivos ya vienen incluidos en la carpeta `Dataset/`, así que no hace falta descargarlos.
 
